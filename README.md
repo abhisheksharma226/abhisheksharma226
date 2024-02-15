@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=abhisheksharma226&label=Profile%20views&color=0e75b6&style=flat](https://www.linkedin.com/in/abhisheksharma-731676205/)" alt="abhisheksharma226" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisheksharma226&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheksharma226" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhisheksharma226" alt="abhisheksharma226" /></a> </p>
 
