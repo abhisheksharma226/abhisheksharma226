@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Frontend and java and Dsa**
 
-- 📫 How to reach me **avisheksharma2004@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/abhisheksharma-731676205/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
