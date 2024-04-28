@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **backend**
 
-- 💬 Ask me about **Frontend and java and Dsa**
+- 💬 Ask me about **Frontend as well as Backend and java Dsa**
 
 - 📫 How to reach me **https://www.linkedin.com/in/abhisheksharma-731676205/**
 
