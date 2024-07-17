@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Messenger App**
 
-- 🌱 I’m currently learning **backend**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **Frontend as well as Backend and java Dsa**
 
