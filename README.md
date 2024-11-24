@@ -19,7 +19,6 @@
 
 - 💬 Ask me about **Frontend as well as Backend and java Dsa**
 
-- 📫 How to reach me **https://www.linkedin.com/in/abhisheksharma-731676205/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
