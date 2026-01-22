@@ -15,9 +15,9 @@
 
 - 🔭 I’m currently working on **Vigil Track a AI-Powered Missing Person Tracker**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Java Spring Boot**
 
-- 💬 Ask me about **Frontend as well as Backend and java Dsa**
+- 💬 Connect with me for  **Fullstack projects**
 
 
 <h3 align="left">Connect with me:</h3>
